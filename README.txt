@@ -1,21 +1,2 @@
-Template Name: Landing
-Template Author: Untree.co
-Template License: https://creativecommons.org/licenses/by/3.0/
-Author URI: https://untree.co/
+A Responsive Pricing Page landing page. Built using Bootstap and HTML
 
-Twitter: https://twitter.com/Untree_co
-Facebook: https://web.facebook.com/Untree.co/
-
-
-CREDITS
-
-* jQuery
-* Popper
-* Bootstrap
-* Fancybox
-* Unsplash
-* Owl Carousel
-* AOS
-* animateNumber
-* Waypoints
-* Google Fonts
